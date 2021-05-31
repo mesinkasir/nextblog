@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+# Next Js Blog Template themes
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/nextblog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Build modern website blog using next js
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Test Demo →](https://bepos.vercel.app/)
 
-### Markdown
+[Documentation →](https://www.hockeycomputindo.com/2021/05/next-js-blog-template-free-download.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-------
 
-```markdown
-Syntax highlighted code block
+features :
 
-# Header 1
-## Header 2
-### Header 3
+![next blog js free download gratis website template themes](https://1.bp.blogspot.com/-JTHgHXXRnDE/YLTBU7Xc-vI/AAAAAAAAOUk/tpJlfrJPZPoiNU7UkNPMrnYugUCS1MxFQCLcBGAsYHQ/s1348/Next%2BJS%2BBlog%2BThemes%2Bfree%2Bdownload%2Bgratis%2B%25281%2529.png)
 
-- Bulleted
-- List
+Home page
 
-1. Numbered
-2. List
+![next blog js free download gratis website template themes](https://1.bp.blogspot.com/-B1w5P7lNpzs/YLTBU8fWxoI/AAAAAAAAOUo/bUCSQHNLabM2BqUF4IlDHa_8QWh5s_UbQCLcBGAsYHQ/s1349/Next%2BJS%2BBlog%2BThemes%2Bfree%2Bdownload%2Bgratis%2B%25283%2529.png)
 
-**Bold** and _Italic_ and `Code` text
+Blog Post
 
-[Link](url) and ![Image](src)
-```
+![next blog js free download gratis website template themes](https://1.bp.blogspot.com/-_LjXwlpqk44/YLTBU8w1ZjI/AAAAAAAAOUg/NZzAI2GgNmsmExY8oW8AzOYKyLRHIr6MwCLcBGAsYHQ/s1349/Next%2BJS%2BBlog%2BThemes%2Bfree%2Bdownload%2Bgratis%2B%25282%2529.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Article Page
 
-### Jekyll Themes
+-------
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/nextblog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Need to install 
++ Node
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Download source code 
++ [github →](https://github.com/mesinkasir/nextblog)
+
+
+-------
+
+Work and installation 
+
+[Read Documentation →](https://www.hockeycomputindo.com/2021/05/next-js-blog-template-free-download.html)
+
+-----------
+
+Hapy codding
